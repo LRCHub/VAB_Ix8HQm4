@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "UP TO ME!",
+  "base_artist": "Little Glee Monster",
+  "createdAt": "2025-12-15T04:40:32.416726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Up To Me",
+      "artist": "lil wayne",
+      "has_synced": false,
+      "path": "select/01_Up_To_Me_lil_wayne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Connect Up to Me",
+      "artist": "Ric Ocasek",
+      "has_synced": false,
+      "path": "select/02_Connect_Up_to_Me_Ric_Ocasek.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give It Up To Me (feat. Lil Wayne)",
+      "artist": "Shakira feat. Lil Wayne",
+      "has_synced": true,
+      "path": "select/03_Give_It_Up_To_Me_(feat._Lil_Wayne)_Shakira_feat._Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give It Up To Me (Feat. Lil Wayne)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/04_Give_It_Up_To_Me_(Feat._Lil_Wayne)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give It Up To Me (Feat. Lil Wayne)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/05_Give_It_Up_To_Me_(Feat._Lil_Wayne)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walk up to Me",
+      "artist": "TOY",
+      "has_synced": true,
+      "path": "select/06_Walk_up_to_Me_TOY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Up to Me",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/07_Up_to_Me_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Up to Me",
+      "artist": "Pennywise",
+      "has_synced": true,
+      "path": "select/08_It's_Up_to_Me_Pennywise.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's up to Me",
+      "artist": "Millencolin",
+      "has_synced": true,
+      "path": "select/09_That's_up_to_Me_Millencolin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(When You Gonna) Give It Up To Me",
+      "artist": "Sean Paul feat. Keyshia Cole",
+      "has_synced": true,
+      "path": "select/10_(When_You_Gonna)_Give_It_Up_To_Me_Sean_Paul_feat._Keyshia_Cole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) [Radio Version]",
+      "artist": "Sean Paul, Keyshia Cole",
+      "has_synced": true,
+      "path": "select/11_(When_You_Gonna)_Give_It_Up_to_Me_(feat._Keyshia_Cole)_[Radio_Version]_Sean_Paul,_Keyshia_Cole.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give It Up To Me (feat. Lil Wayne)",
+      "artist": "Shakira, Lil Wayne",
+      "has_synced": true,
+      "path": "select/12_Give_It_Up_To_Me_(feat._Lil_Wayne)_Shakira,_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Up to Me",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/13_Up_to_Me_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(When You Gonna) Give It Up To Me (Radio Version)",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/14_(When_You_Gonna)_Give_It_Up_To_Me_(Radio_Version)_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Down On Up to Me",
+      "artist": "Soul Asylum",
+      "has_synced": false,
+      "path": "select/15_Down_On_Up_to_Me_Soul_Asylum.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give It Up to Me",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/16_Give_It_Up_to_Me_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If It Were Left Up to Me",
+      "artist": "Sly & The Family Stone",
+      "has_synced": true,
+      "path": "select/17_If_It_Were_Left_Up_to_Me_Sly_&_The_Family_Stone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UP TO ME!",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_01_UP_TO_ME!_Little_Glee_Monster.txt"
+    }
+  ]
+}
